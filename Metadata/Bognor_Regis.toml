@@ -1,0 +1,12 @@
+author = 'Oxalin'
+country_code = 'GB'
+description = "Bognor Regis station and sidings"
+display_name = 'Bognor Regis'
+doc_files = [ 'Bognor Regis.md' ]
+factual = true
+img_files = [ 'Bognor Regis.bmp' ]
+name = 'Bognor Regis'
+release_date = '2022-04-15'
+rly_file = 'Bognor Regis.rly'
+ttb_files = [ 'Bognor Regis 01-06-22.ttb' ]
+version = '1.0.0'
